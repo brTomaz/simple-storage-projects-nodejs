@@ -19,7 +19,7 @@
   <a href="#wrench-installation">Installation</a>
 </p>
 
-## :pushpin: Explanation
+## :clipboard: Explanation
 
 This work aims to manage projects and their tasks using [NodeJS](https://nodejs.org/en/) and storage in [PostgreSQL](https://www.postgresql.org/).
 
