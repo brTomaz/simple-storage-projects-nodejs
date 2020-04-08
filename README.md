@@ -34,7 +34,7 @@ This work aims to manage projects and their tasks using [NodeJS](https://nodejs.
 
 - `DELETE /projects/:id`: The project with `id` present in route parameters must be deleted.
 
-- `POST /projects/:id/tasks`: The route must receive a `title` and store a new task int the array of tasks for a specific project chosen through the `id` present in the route parameters.
+- `POST /projects/:id/tasks`: This route must receive a `title` and an`id` to store a new task in the array of tasks for a specific project.
 
 
 ## :rocket: Technologies
